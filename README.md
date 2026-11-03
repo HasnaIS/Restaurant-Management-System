@@ -9,7 +9,7 @@ Key Concepts & Implementation:
 
 * Object-Oriented Programming (OOP).
 * Inheritance and Abstract Classes.
-* Interfaces and Polymorphism.
+* Interfaces.
 * Custom Exception Handling.
 * Linked List Data Structure.
 * Graphical User Interface (GUI).
